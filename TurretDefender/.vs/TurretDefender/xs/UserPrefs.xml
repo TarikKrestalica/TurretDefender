@@ -1,0 +1,34 @@
+﻿<Properties StartupConfiguration="{5D7A00FE-9934-670C-B042-11FD0FB4463E}|">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="8dc0f1db-5ca2-400c-97ac-46e00f2982ff" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/GameManager.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Player.cs" />
+      <File FileName="Assets/Scripts/GameManager.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/CounterScript.cs" />
+      <File FileName="Assets/Scripts/Enemy.cs" />
+      <File FileName="Assets/Scripts/Scoring.cs" />
+      <File FileName="Assets/Scripts/Bullet.cs" />
+      <File FileName="Assets/Scripts/HealthBar.cs" />
+      <File FileName="Assets/Scripts/Minimap.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="TurretDefender">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="GameManager.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
